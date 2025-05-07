@@ -1,1 +1,1 @@
-# logistic-regression
+# Heart Disease Prediction using Logistic Regression
